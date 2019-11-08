@@ -2,6 +2,14 @@
 
 A curated list of **community** Xamarin.Forms backends.
 
+## [Ooui](https://github.com/praeclarum/Ooui)
+
+Ooui (pronounced weee!) is a small cross-platform UI library for .NET that uses web technologies. Include a WebAssembly mode of Ooui running Xamarin.Forms.
+
+![Ooui](images/Ooui.png)
+
+Head on over to http://ooui.mecha.parts to try out the samples. 
+
 ## [Xamarin.Forms.Platforms.Blazor](https://github.com/legistek/Xamarin.Forms.Platforms.Blazor)
 
 A proof of concept for a Blazor backend render platform for Xamarin.Forms.
