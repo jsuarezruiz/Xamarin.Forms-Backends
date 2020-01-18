@@ -2,6 +2,12 @@
 
 A curated list of **community** Xamarin.Forms backends.
 
+## [MobileBlazorBindings](https://github.com/xamarin/MobileBlazorBindings)
+
+Mobile Blazor Bindings enable developers to build native mobile apps using C# and .NET for iOS and Android using familiar web programming patterns. This means you can use the Blazor programming model and Razor syntax to define UI components and behaviors of an application. The UI components that are included are based on Xamarin.Forms native UI controls, which results in beautiful native mobile apps.
+
+<img src="images/blazormobile01.png" Width="220" /> <img src="images/blazormobile02.png" Width="220" /><img src="images/blazormobile03.png" Width="220" /> <img src="images/blazormobile04.png" Width="220" />
+
 ## [Ooui](https://github.com/praeclarum/Ooui)
 
 Ooui (pronounced weee!) is a small cross-platform UI library for .NET that uses web technologies. Include a WebAssembly mode of Ooui running Xamarin.Forms.
